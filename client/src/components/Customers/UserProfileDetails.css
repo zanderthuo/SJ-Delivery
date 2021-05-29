@@ -1,0 +1,19 @@
+.MuiAvatar-root.MuiAvatar-circle.userProfileDetails__avatar.MuiAvatar-colorDefault{
+    position: relative;
+    width: 80px;
+    height: 80px;
+    left: 80px;
+}
+
+.userProfileDetails__name > h3{
+  position: relative;
+  left: 45px;
+}
+
+/* span{
+  position: relative;
+  left: 45px;
+} */
+.userProfileDetails__phoneNumber{}
+.userProfileDetails__email{}
+.userProfileDetails__status{}

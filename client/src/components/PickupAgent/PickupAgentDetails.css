@@ -1,0 +1,19 @@
+.MuiAvatar-root.MuiAvatar-circle.pickupAgentProfileDetails__avatar.MuiAvatar-colorDefault{
+    position: relative;
+    width: 80px;
+    height: 80px;
+    left: 80px;
+}
+
+.pickupAgentProfileDetails__name > h3{
+  position: relative;
+  left: 45px;
+}
+
+/* span{
+  position: relative;
+  left: 45px;
+} */
+.pickupAgentProfileDetails__phoneNumber{}
+.pickupAgentProfileDetails__email{}
+.pickupAgentProfileDetails__status{}
